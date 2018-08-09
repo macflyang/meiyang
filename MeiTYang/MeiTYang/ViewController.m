@@ -18,6 +18,8 @@
     [super viewDidLoad];
    
     NSLog(@"开始开发啦 啦");
+    
+    NSLog(@"1.0开发完毕");
 }
 
 
